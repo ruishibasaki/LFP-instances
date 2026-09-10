@@ -1,0 +1,27 @@
+n_items=200
+n_periods=10
+n_bins=5
+
+hold_cost_min=1.0
+hold_cost_max=1.0
+
+hand_cost_min=100
+hand_cost_max=200
+
+demand_min=100
+demand_max=500
+
+stock0_min=0
+stock0_max=0
+
+price_min=100
+price_max=200
+
+capacity_min=100
+capacity_max=200
+capacity_ratio1=1.0
+capacity_ratio2=0.3
+
+lotq_min=100
+lotq_max=300
+economies_scale = 0.5
